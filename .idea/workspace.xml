@@ -11,31 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f29dc098-17de-409e-b7c2-6812eedc33c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/section_gallery/7328272788_c5048326de_o 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/section_gallery/80493541_1281644acb_o 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/section_gallery/Brazil-staduims-IA-1 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/section_gallery/IA-Hourses-6 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/section_gallery/IA-billionares-6 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/section_gallery/Kids-Store-Lighting-1 (1) 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/section_gallery/Kids-Store-Lighting-2 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/section_gallery/Kids-Store-Lighting-2 2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/section_gallery/ia-Pools-1 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/section_gallery/p1_8 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/section_gallery/ringve-museum-1 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/section_gallery/ringve-museum-1 2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/section_gallery/vanglo-house-1 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/section_gallery/vanglo-house-1 2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/section_gallery/vanglo-house-1 3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/section_gallery/vanglo-house-4 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/section_gallery/vanglo-house-6 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/section_gallery/vanglo-house-6 2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/jquery-3.5.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/masonry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/masonry.pkgd.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -127,6 +104,7 @@
       <workItem from="1607432637403" duration="21040000" />
       <workItem from="1607518445390" duration="786000" />
       <workItem from="1607532873461" duration="3512000" />
+      <workItem from="1607539930700" duration="598000" />
     </task>
     <servers />
   </component>

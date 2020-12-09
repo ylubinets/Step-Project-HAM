@@ -782,7 +782,6 @@ body{
     max-width: 370px;
     gap: 3px;
 }
-
 .grid-gallery-item {
     padding-bottom: 21px;
 }
@@ -798,13 +797,11 @@ body{
     justify-content: center;
     align-items: center;
 }
-
 .footer-title {
     color: #AEAEAE;
     font-size: 14px;
     font-weight: 300;
 }
-
 .footer-title-logo {
     text-transform: none;
     color: #18CFAB;
