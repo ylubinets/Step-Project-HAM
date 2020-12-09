@@ -757,3 +757,56 @@ body{
     }
 }
 
+/* BEST IMAGES */
+
+.gallery-images {
+    padding-top: 108px;
+}
+.title-gallery {
+    text-align: center;
+}
+.section-content {
+    padding-top: 83px;
+}
+
+.grid-item {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2px;
+}
+
+.grid-item-group {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    max-width: 370px;
+    gap: 3px;
+}
+
+.grid-gallery-item {
+    padding-bottom: 21px;
+}
+.load-btn {
+    text-align: center;
+}
+/* FOOTER */
+
+.footer-content {
+    padding: 48px 0;
+    background-color: #22353F;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-title {
+    color: #AEAEAE;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.footer-title-logo {
+    text-transform: none;
+    color: #18CFAB;
+}
+
