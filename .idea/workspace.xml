@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f29dc098-17de-409e-b7c2-6812eedc33c5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../HW/HW3 Ramda/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/review/Layer 344.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/review/Layer 5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/review/Layer 6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/review/Layer 7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/review/Layer 8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW JS/HW10/mainhw.js" beforeDir="false" afterPath="$PROJECT_DIR$/../HW JS/HW10/mainhw.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW/HW3 Ramda/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HW/HW3 Ramda/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW/HW3 Ramda/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../HW/HW3 Ramda/styles/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW/HW4 Design/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../HW/HW4 Design/styles/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProblemsViewState">
+    <hideBySeverity>
+      <option value="15" />
+    </hideBySeverity>
+  </component>
+  <component name="ProjectId" id="1k1DWcA2X2lWQssb5t2gIXt2GFH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../HomeWork/HW 12" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ярослав\Unused\Documents\GitHub\MyProjects\HamProject\img\review" />
+      <recent name="C:\Users\Ярослав\Unused\Documents\GitHub\MyProjects\HamProject\img\amazing_works" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ярослав\Unused\Documents\GitHub\MyProjects\HamProject" />
+      <recent name="C:\Users\Ярослав\Unused\Documents\GitHub\MyProjects\HamProject\js" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HamProject/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f29dc098-17de-409e-b7c2-6812eedc33c5" name="Default Changelist" comment="" />
+      <created>1604859237058</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604859237058</updated>
+      <workItem from="1604859238118" duration="1913000" />
+      <workItem from="1604861659611" duration="86000" />
+      <workItem from="1604930956855" duration="6608000" />
+      <workItem from="1604948646902" duration="4518000" />
+      <workItem from="1606231750214" duration="111000" />
+      <workItem from="1606248209953" duration="92000" />
+      <workItem from="1606324735300" duration="44000" />
+      <workItem from="1606324781277" duration="25000" />
+      <workItem from="1606740088641" duration="10307000" />
+      <workItem from="1606770418676" duration="2456000" />
+      <workItem from="1606773330141" duration="496000" />
+      <workItem from="1606819007683" duration="752000" />
+      <workItem from="1607253501069" duration="11772000" />
+      <workItem from="1607279805156" duration="20846000" />
+      <workItem from="1607360502648" duration="6728000" />
+      <workItem from="1607377120691" duration="4208000" />
+      <workItem from="1607432637403" duration="21040000" />
+      <workItem from="1607518445390" duration="786000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="395" y="90" key="#Inspections" timestamp="1604860763305">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="395" y="90" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1604860763305" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607437545440">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1607437545440" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1607519235997">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1607519235997" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1607518784398">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1607518784398" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1607375379633">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1607375379633" />
+    <state x="788" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1607456537395">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="788" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1607456537395" />
+  </component>
+</project>
