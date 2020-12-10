@@ -8,7 +8,6 @@ body{
 }
 
 /* HEADER */
-
 .header_background{
     width: 100%;
     height: 1012px;
@@ -29,8 +28,6 @@ body{
 .logo_name{
     display: flex;
     align-items: center;
-    font-style: normal;
-    font-weight: normal;
     font-size: 32px;
     line-height: 48px;
     color: #18CFAB;
@@ -51,7 +48,6 @@ body{
 .letter_logo{
     position: absolute;
     padding-left: 13px;
-    font-style: normal;
     font-weight: bold;
     font-size: 40px;
     line-height: 31px;
@@ -67,7 +63,6 @@ body{
     align-items: center;
     width: 640px;
     margin-top: 4px;
-    font-style: normal;
     font-weight: bold;
     font-size: 16px;
     line-height: 24px;
@@ -100,7 +95,6 @@ body{
     margin-top: 264px;
 }
 .header_wordpress{
-    font-style: normal;
     font-weight: bold;
     font-size: 35px;
     line-height: 1px;
@@ -111,7 +105,6 @@ body{
     color: #18CFAB;
 }
 .main_title{
-    font-style: normal;
     font-weight: bold;
     font-size: 78px;
     line-height: 1px;
@@ -119,7 +112,6 @@ body{
     color: #FFFFFF;
 }
 .sub_title{
-    font-style: normal;
     font-weight: normal;
     font-size: 34px;
     line-height: 1px;
@@ -127,7 +119,6 @@ body{
 }
 .header_buttons{
     margin-top: 134px;
-    font-style: normal;
     font-weight: bold;
     font-size: 15px;
     line-height: 32px;
@@ -158,7 +149,6 @@ body{
 }
 
 /* SVG BLOCK */
-
 .main{
     margin-top: 6px;
 }
@@ -173,39 +163,16 @@ body{
     flex-direction: column;
     align-items: center;
 }
-.block_feature:nth-child(2){
+.block_feature:nth-child(even){
     background: #18CFAB;
 }
-.block_feature:nth-child(4){
-    background: #18CFAB;
-}
-.svg_1{
-    width: 61px;
-    height: 100px;
+.block_feature:nth-child(odd) {
     padding-top: 85px;
-    fill: #18CFAB ;
-
 }
-.svg_2{
-    width: 96px;
-    height: 78px;
-    padding-top: 96px;
-    fill: #1C2A33;
-}
-.svg_3{
-    width: 62px;
-    height: 99px;
-    padding-top: 85px;
-    fill: #18CFAB ;
-}
-.svg_4{
-    width: 102px;
-    height: 79px;
+.block_feature:nth-child(even) {
     padding-top: 95px;
-    fill: #1C2A33;
 }
 .features_title {
-    font-style: normal;
     font-weight: bold;
     font-size: 20px;
     line-height: 24px;
@@ -221,13 +188,10 @@ body{
 .services_blocks {
     text-align: center;
     padding-top: 85px;
-
 }
 
 /* TABS ARTICLE BLOCK */
-
 .block_title{
-    font-style: normal;
     font-weight: normal;
     font-size: 36px;
     line-height: 40px;
@@ -252,7 +216,6 @@ body{
     width: 1142px;
     margin-top: 70px;
     display: flex;
-    font-style: normal;
     font-weight: normal;
     font-size: 16px;
     line-height: 39px;
@@ -291,7 +254,6 @@ body{
     width: 1142px;
     padding-top: 25px;
     display: none;
-    font-style: normal;
     text-align: left;
     font-weight: 300;
     font-size: 14px;
@@ -302,7 +264,6 @@ body{
 }
 
 /* PURCHASE BLOCK */
-
 .block_purchase {
     margin-top: 91px;
     width: 100%;
@@ -313,25 +274,21 @@ body{
 }
 .title_purchase {
     padding-top: 125px;
-    font-style: normal;
     font-weight: bold;
     font-size: 40px;
     line-height: 40px;
     color: #18CFAB;
     text-transform: uppercase;
-    z-index: 100;
 }
 .par_purchase {
     padding: 12px 0 62px 0;
     text-align: center;
-    font-style: normal;
     font-weight: normal;
     font-size: 16px;
     line-height: 40px;
     color: #D8D8D8;
 }
 .purchase_button{
-    font-style: normal;
     font-weight: bold;
     font-size: 15px;
     line-height: 32px;
@@ -349,7 +306,6 @@ body{
 }
 
 /* TABS AMAZING WORKS */
-
 .amazing_block {
     background: #E9EDEF;
     text-align: center;
@@ -366,7 +322,6 @@ body{
     height: 58px;
     margin-top: 70px;
     display: flex;
-    font-style: normal;
     font-weight: normal;
     font-size: 14px;
     line-height: 42px;
@@ -416,7 +371,6 @@ body{
     left: 0;
     right: 0;
     opacity: 0;
-
 }
 .circle-elem{
     position: relative;
@@ -442,7 +396,7 @@ body{
 .square_svg {
     position: absolute;
     top: 14px;
-    left: 12px;
+    left: 13px;
     width: 12px;
     height: 12px;
     fill: #18cfab;
@@ -464,7 +418,6 @@ body{
     z-index: 1;
     top: 112px;
     left: 78px;
-    font-style: normal;
     font-weight: bold;
     font-size: 14.1771px;
     line-height: 25px;
@@ -478,7 +431,6 @@ body{
     z-index: 1;
     top: 135px;
     left: 105px;
-    font-style: normal;
     font-weight: 300;
     font-size: 12.1518px;
     line-height: 25px;
@@ -494,7 +446,6 @@ body{
     margin: 70px 0;
     padding: 13px 23px 8px 0;
     border-radius: 3px;
-    font-style: normal;
     font-weight: bold;
     font-size: 14px;
     line-height: 42px;
@@ -538,7 +489,6 @@ body{
 }
 
 /* BREAKING NEWS */
-
 .news_block {
     background-color: white;
     text-align: center;
@@ -590,7 +540,6 @@ body{
 }
 
 /* WHAT PEOPLE SAY ABOUT */
-
 .review_block{
     margin-top: 125px;
     text-align: center;
@@ -603,14 +552,10 @@ body{
     color: #FFFFFF;
 }
 .quotes_svg {
-    width: 47px;
-    height: 33px;
-    fill: #18cfab;
     padding-top: 65px;
 }
 .text_review {
     padding-top: 35px;
-    font-style: normal;
     font-weight: 300;
     font-size: 16px;
     line-height: 30px;
@@ -619,7 +564,6 @@ body{
 }
 .slider_name{
     padding-top: 37px;
-    font-style: normal;
     font-weight: bold;
     font-size: 16px;
     line-height: 27px;
@@ -628,7 +572,6 @@ body{
 }
 .slider_profession{
     padding: 5px 0 35px 0;
-    font-style: normal;
     font-weight: 300;
     font-size: 13px;
     line-height: 27px;
@@ -636,11 +579,6 @@ body{
     opacity: 0.8;
 }
 .slider_img{
-    width: 100%;
-    height: 100%;
-    overflow: hidden;
-}
-.img_small {
     width: 100%;
     height: 100%;
     overflow: hidden;
@@ -666,6 +604,7 @@ body{
     cursor: pointer;
 }
 .active-icon{
+    border: 6px solid rgba(31, 218, 181, 0.6);
     transform: translateY(-30%);
     animation-name: slideUp;
     -webkit-animation-name: slideUp;
@@ -687,7 +626,6 @@ body{
         transform: translateY(-30%);
     }
 }
-
 @-webkit-keyframes slideUp {
     0% {
         -webkit-transform: translateY(0%);
@@ -725,7 +663,6 @@ body{
     width: 1160px;
     height: 397px;
     position: relative;
-
 }
 .slider_block {
     object-fit: cover;
@@ -758,7 +695,6 @@ body{
 }
 
 /* BEST IMAGES */
-
 .gallery-images {
     padding-top: 108px;
 }
@@ -768,13 +704,11 @@ body{
 .section-content {
     padding-top: 83px;
 }
-
 .grid-item {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 2px;
 }
-
 .grid-item-group {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -789,7 +723,6 @@ body{
     text-align: center;
 }
 /* FOOTER */
-
 .footer-content {
     padding: 48px 0;
     background-color: #22353F;
@@ -803,7 +736,6 @@ body{
     font-weight: 300;
 }
 .footer-title-logo {
-    text-transform: none;
     color: #18CFAB;
 }
 
