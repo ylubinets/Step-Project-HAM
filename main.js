@@ -82,7 +82,6 @@ function currentSlide(n) {
 }
 
 function showSlides(n) {
-    let i;
     const slides = document.querySelectorAll(".slider_block");
     const icons = document.querySelectorAll(".icon_slide");
     if (n > slides.length) {
@@ -91,10 +90,10 @@ function showSlides(n) {
     if (n < 1) {
         slideIndex = slides.length
     }
-    for (i = 0; i < slides.length; i++) {
+    for (let i = 0; i < slides.length; i++) {
         slides[i].style.display = "none";
     }
-    for (i = 0; i < icons.length; i++) {
+    for (let i = 0; i < icons.length; i++) {
         icons[i].classList.remove('active-icon')
     }
     slides[slideIndex - 1].style.display = "block";
