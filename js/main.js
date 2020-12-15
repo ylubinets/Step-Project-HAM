@@ -66,7 +66,6 @@ function selectTabContent(tabName) {
 //SLIDER
 
 let slideIndex = 1;
-showSlides(slideIndex);
 
 function nextSlide() {
     showSlides(slideIndex += 1);

@@ -42,7 +42,6 @@ body{
 }
 .navbar_item a:hover::after{
     content: "";
-    display: inline-block;
     position: absolute;
     width: 100%;
     border-bottom: 2px solid rgba(24, 207, 171, 255);
